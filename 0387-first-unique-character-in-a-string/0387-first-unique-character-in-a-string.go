@@ -12,8 +12,6 @@ func firstUniqChar(s string) int {
             return i
         }
     }
-
-    fmt.Println(letters)
-
+    
     return -1
 }

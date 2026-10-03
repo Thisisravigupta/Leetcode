@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thisisravigupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thisisravigupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0334-increasing-triplet-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Thisisravigupta/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Thisisravigupta/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Longest Increasing Subsequence
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0392-is-subsequence) |
+| [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 ## Queue
 |  |
 | ------- |
@@ -103,4 +106,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Thisisravigupta/Leetcode/tree/master/0014-longest-common-prefix) |
+## Minimax
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
+## Interactive
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
+## Game Theory
+|  |
+| ------- |
+| [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 <!---LeetCode Topics End-->

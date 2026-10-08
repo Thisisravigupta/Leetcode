@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Thisisravigupta/Leetcode/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Thisisravigupta/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thisisravigupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thisisravigupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0334-increasing-triplet-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

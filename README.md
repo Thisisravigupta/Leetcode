@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thisisravigupta/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thisisravigupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Thisisravigupta/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Thisisravigupta/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Longest Increasing Subsequence
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thisisravigupta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Thisisravigupta/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Thisisravigupta/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -100,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Thisisravigupta/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thisisravigupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Thisisravigupta/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Thisisravigupta/Leetcode/tree/master/0338-counting-bits) |
 ## Divide and Conquer
 |  |

@@ -1,25 +1,29 @@
 func isHappy(n int) bool {
-	if n == 1 {
-		return true
-	}
-	visited := make(map[int]struct{})
+    slow := n
+    fast := n
 
-	for n != 1 {
-		if _, exists := visited[n]; exists {
-			return false
-		}
+    for {
+        slow = getNext(slow)
+        fast = getNext(getNext(fast))
 
-		visited[n] = struct{}{}
+        if fast == 1 {
+            return true
+        }
 
-		sum := 0
-		for n > 0 {
-			rem := n % 10
-			sum += rem * rem
-			n /= 10
-		}
+        if slow == fast {
+            return false
+        }
+    }
+}
 
-		n = sum
-	}
+func getNext(n int) int {
+    sum := 0
 
-	return true
+    for n > 0 {
+        rem := n % 10
+        sum += rem * rem
+        n /= 10
+    }
+
+    return sum
 }

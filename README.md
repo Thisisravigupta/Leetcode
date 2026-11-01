@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Thisisravigupta/Leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Thisisravigupta/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thisisravigupta/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Thisisravigupta/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Thisisravigupta/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Thisisravigupta/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thisisravigupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Thisisravigupta/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |

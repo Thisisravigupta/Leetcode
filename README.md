@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Thisisravigupta/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Thisisravigupta/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Thisisravigupta/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Thisisravigupta/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Thisisravigupta/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0392-is-subsequence) |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |

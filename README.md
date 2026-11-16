@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Thisisravigupta/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Thisisravigupta/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0496-next-greater-element-i](https://github.com/Thisisravigupta/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0843-guess-the-word](https://github.com/Thisisravigupta/Leetcode/tree/master/0843-guess-the-word) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Thisisravigupta/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Thisisravigupta/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Thisisravigupta/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Thisisravigupta/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Matrix
 |  |
 | ------- |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thisisravigupta/Leetcode/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Thisisravigupta/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -199,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Thisisravigupta/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Thisisravigupta/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
